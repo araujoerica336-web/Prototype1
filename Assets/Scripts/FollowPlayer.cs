@@ -16,4 +16,5 @@ public class NewMonoBehaviourScript : MonoBehaviour
     {
         transform.position = player.transform.position + offset;
     }
+    
 }
